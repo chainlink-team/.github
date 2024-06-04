@@ -71,6 +71,7 @@ The NFT Minting contract is central to the community/social aspect of PowerPlay,
   - **Avalanche Fuji**: [View on SnowTrace](https://testnet.snowtrace.io/address/0x73610d151447Ebf8f86A49Ff003c1e22c4d47c80/contract/43113/code)
   - **Metis Sepolia**: [View on Metis Explorer](https://sepolia-explorer.metisdevops.link/address/0x0175DD80dc6EEE9b5443E31036D184Ea895D74a9)
   - **Scroll Sepolia**: [View on ScrollScan](https://sepolia.scrollscan.com/address/0x7D28aD92df4cDF6CA3ffD1E1d5c412800d7d6C76)
+- **Contracts Video**: https://www.loom.com/share/617e2aab398f413ca8ceaf232b27bb73?sid=5e355e8c-3f0d-4fae-aef1-7acb688a6b91
 - **Fair and Transparent Platform**: Developed a platform that counters the exploitative practices of existing platforms.
 - **Chainlink Integration**: Successfully integrated multiple Chainlink services to create a robust and trustworthy system.
 - **User-Friendly Interface**: Created a visually appealing and user-friendly interface, making the platform accessible and engaging.
